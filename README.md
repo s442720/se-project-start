@@ -1,5 +1,5 @@
 # se-project-start
-### Step - how to connect to Firebase with android studio
+### Step - how to connect to Firebase in android studio
 ##### 1. Open the project above and logout any google account in android studio
 
 ##### 2. Click Tools -> Firebase
