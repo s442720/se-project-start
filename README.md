@@ -6,5 +6,5 @@
 #####                                                               -> and click "Add Firebase Authentication to your app"
 ##### 4. Go to previous page choose "Realtime Database" -> "save and retrive data" -> Click "Connect your app to Firebase"
 #####                                                                              -> and click "Add Firebase Authentication to your app"
-#####(After connecting these two properties, you can scroll down in the same page there are some basic instruction about how to write in and read from database.)
+##### (After connecting these two properties, you can scroll down in the same page there are some basic instruction about how to write in and read from database.)
 ##### Done
