@@ -4,8 +4,8 @@
 
 ##### 2. Click Tools -> Firebase
 
-##### 3. Choose "Authentication" -> "Email and password authentication" -> Click "Connect your app to Firebase"
-##### login account: seproject20192019
+##### 3. Choose "Authentication" -> "Email and password authentication" -> Click "Connect your app to Firebase" and login google account with:
+##### email: seproject20192019
 ##### password: Test@1234
 ##### -> and then click "Add Firebase Authentication to your app"
 
